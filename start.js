@@ -1,1 +1,1 @@
-console.log("Why does github suck ass?")
+console.log("OK, github rules B)")
