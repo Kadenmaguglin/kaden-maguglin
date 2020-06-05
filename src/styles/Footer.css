@@ -1,0 +1,18 @@
+.footer {
+    padding: 20px 0;
+    background-color: #535353;
+    color:white;
+    width: 100%;
+    text-align: center;
+    border-top: 5px solid salmon;
+    margin-top: 10px;
+    position: fixed;
+    bottom: 0;
+    overflow: hidden;
+
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 30;
+    margin-top: -3em;
+}

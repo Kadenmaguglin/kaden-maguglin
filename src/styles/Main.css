@@ -1,0 +1,80 @@
+.aboutSection{
+    background-color:white;
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    padding-bottom: 100px;
+    border: 5px solid salmon;
+}
+
+.portfolioSection{
+    background-color:white;
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    padding-bottom: 100px;
+    border: 5px solid salmon;
+}
+
+.contactSection{
+    background-color:white;
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    padding-bottom: 100px;
+    border: 5px solid salmon;
+}
+
+.title{
+    float:left;
+margin-top:30px;
+margin-left:10%;
+font-size:50px;
+}
+.hr{
+    border: 1px solid black;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+}
+.caption{
+    float:left;
+    margin-left:10%
+}
+.image{
+    width:80%;
+}
+.textBody{
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
+font-size:25px;
+}
+
+.contactPic{
+    vertical-align:middle; float:left;
+    margin-left:10%;
+}.contactLink{
+    font-size:30px;
+    float:left;
+
+}
+
+.projectContainer{
+    margin-top:50px;
+    background-color:white;
+    border-bottom: 5px solid salmon;
+    border-top: 5px solid salmon;
+
+}
+.projectTitle{
+font-size: 50px;
+padding-top:15px;
+}
+.projectThumbnail{
+    margin-top: 30px;
+    width:80%;
+    max-width: 500px;
+    margin-bottom:30px;
+    border: 1px solid black;
+}
